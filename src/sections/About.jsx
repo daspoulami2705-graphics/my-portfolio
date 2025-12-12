@@ -44,8 +44,7 @@ const About = forwardRef(function About(_, ref) {
             </a>
 
             <a
-              href="/resume.pdf"
-              download
+              href="/resume-download.html"
               className="inline-flex items-center gap-2 px-4 py-2 bg-white border text-sm rounded-full shadow hover:bg-gray-50 transition"
             >
               <FiDownload /> Resume
